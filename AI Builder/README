@@ -1,0 +1,8 @@
+PROJECT 1: Build an autonomous financial agent that monitors MarketStack prices and rebalances Google Sheets portfolios using OpenAI logic.
+PROJECT 2: Deploy a conversational Voice Agent via ElevenLabs and Twilio that utilizes Supabase RAG for deep domain expertise.
+PROJECT 3: Construct a multi-agent Go-To-Market system using MCP and FireCrawl to scrape leads, enrich data, and schedule meetings.
+Build autonomous AI Agents using n8n that can plan, reason, and execute complex business workflows without writing a single line of code.
+Engineer real-time Voice Agents with ElevenLabs and Twilio that handle live phone calls, manage customer objections, and trigger business actions instantly.
+Implement Agentic RAG (Retrieval Augmented Generation) pipelines using Supabase vector stores to equip your agents with deep, proprietary knowledge
+Master n8n’s advanced capabilities including Webhooks, JSON data transformation, and Expressions to build enterprise-grade data pipes and integrations.
+Integrate LLMs (OpenAI, Gemini, Anthropic) with essential business tools like Google Sheets, Slack, Gmail, and Telegram to automate manual administrative tasks.
